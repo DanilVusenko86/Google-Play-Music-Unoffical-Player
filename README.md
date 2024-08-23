@@ -14,5 +14,9 @@
 <p>Old Google Play Music Link: https://play.google.com/music/managemusic</p>
 <p>GPMDP Link: https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-</p>
 
+<h1>How to Backup/Transfer Music from Google Play Music Mobile app ?</h1>
+
+<p>Instruction: https://www.reddit.com/r/googleplaymusic/comments/1en4lsn/how_to_upload_gpm_music_to_gpmup_from_mobile_app/</p>
+
 <h1>Developers</h1>
 <p>Danil Vusenko</p>
