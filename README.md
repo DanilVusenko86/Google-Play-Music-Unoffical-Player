@@ -1,5 +1,5 @@
 <img src="iconlogo.png" width="450px"><br>
-<h2>Google Play Music Unoffical Player</h2>
+<h2>Google Play Music Unofficial Player</h2>
 <p>GPMUP - its a local music player with GPM Functional and design</p>
 
 <h1>Components</h1>
